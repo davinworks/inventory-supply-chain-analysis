@@ -17,16 +17,19 @@ End-to-end analysis of inventory and supply chain data using Google BigQuery, Po
 - **Power BI** — dashboard interaktif 3 halaman
 
 ## Project Structure
-├── 01_bigquery_exploration.md       # Dokumentasi eksplorasi BigQuery
-├── 02_cleaned_data_inv_sply_chn.ipynb  # Data cleaning
-├── 02_cleaning_documentation.md     # Dokumentasi keputusan cleaning
-├── 02_postgres_add_tables.ipynb     # Import data ke PostgreSQL
-├── 03_EDA.ipynb                     # Exploratory Data Analysis
-├── 03_EDA_2.ipynb                   # Deep dive EDA
-├── 03_EDA_key_findings.png          # Visualisasi temuan utama
-├── 04_PBI_Overview.png              # Dashboard halaman 1
-├── 04_PBI_Problem Analysis.png      # Dashboard halaman 2
-└── 04_PBI_Rekomendasi & Action Items.png  # Dashboard halaman 3
+
+```
+├── 01_bigquery_exploration.md
+├── 02_cleaned_data_inv_sply_chn.ipynb
+├── 02_cleaning_documentation.md
+├── 02_postgres_add_tables.ipynb
+├── 03_EDA.ipynb
+├── 03_EDA_2.ipynb
+├── 03_EDA_key_findings.png
+├── 04_PBI_Overview.png
+├── 04_PBI_Problem Analysis.png
+└── 04_PBI_Rekomendasi & Action Items.png
+```
 
 ## Dashboard Preview
 
